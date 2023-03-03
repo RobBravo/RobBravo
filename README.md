@@ -1,5 +1,7 @@
 ### Hola 👋 Soy Roberto Bravo
 
+---
+
 ## Desarrollador Web Full Stack, Ingeniero de datos y especialista en Business Intelligence
 
 <!--
