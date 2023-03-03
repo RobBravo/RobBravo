@@ -1,6 +1,6 @@
 ### Hola 👋 Soy Roberto Bravo
 
-## Soy desarrollador Web Full Stack, Ingeniero de datos y especialista en Business Intelligence
+## Desarrollador Web Full Stack, Ingeniero de datos y especialista en Business Intelligence
 
 <!--
 **RobBravo/RobBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
