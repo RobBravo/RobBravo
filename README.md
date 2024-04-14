@@ -13,5 +13,11 @@
 - 🔭 I’m currently working as a Senior Business Intelligence Devs
 - 🌱 I’m currently Azure Data Engenieer Certification
 - 👯 I’m looking to collaborate on Python Projects
+- 👽 Ask me about SQL,Python,HTML,JavaScript
 
 
+<div align="left">
+  <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width=40 height=40/>
+  </div>  
+</div>
