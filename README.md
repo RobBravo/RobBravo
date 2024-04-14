@@ -29,5 +29,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg" title="sql" alt="sql" width=40 height=40/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width=40 height=40/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-plain.svg" title="goland" alt="goland" width=40 height=40/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width=40 height=40/>
   </div>  
 </div>
