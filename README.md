@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Python Projects
 - 👽 Ask me about SQL,Python,HTML,JavaScript
 
-
+🔨 Languages and Tools:
 <div align="left">
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width=40 height=40/>
