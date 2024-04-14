@@ -14,7 +14,7 @@
 - 🌱 I’m currently Azure Data Engenieer Certification
 - 👯 I’m looking to collaborate on Python Projects
 - 👽 Ask me about SQL,Python,HTML,JavaScript
-- 🌐 My Website [https://robertobravodesign.com/] https://robertobravodesign.com/
+- 🌐 My Website https://robertobravodesign.com/
 
 ###  🔨 Languages and Tools:
 <div align="left">
