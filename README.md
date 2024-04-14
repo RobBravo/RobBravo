@@ -26,5 +26,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width=40 height=40/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg" title="sql" alt="sql" width=40 height=40/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width=40 height=40/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-plain.svg" title="goland" alt="goland" width=40 height=40/>
   </div>  
 </div>
