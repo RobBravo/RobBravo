@@ -1,7 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemF6NWhxZmh6Ym55anIwajc3YWR4NW9qaDFzbWl1ajhid29pMW1udiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width=400 />
   <h1 align="center">Hi, I´m Roberto Bravo</h1>
-  <h3>A passionate Software Engineer specialized in full stack web development, Data Engineering, Data Science, and Business Intelligence. With a strong background in Python scripting, my goal is to create innovative and efficient solutions that drive project success. With a meticulous focus on every detail, I combine my technical expertise with a strategic vision to deliver exceptional results. Welcome to my world of code, creativity, and transformative solutions!</h3>
+  <h3>Data Scientist | BI Specialist | Python Architect
+
+I'm a Data Scientist and Business Intelligence Specialist with a strong foundation in Software Engineering and Full Stack Development. My expertise lies in transforming complex data into actionable insights through advanced analytics, predictive modeling, and automated pipelines.
+
+Driven by curiosity and precision, I combine Python scripting, SQL mastery, and cloud-based tools to design solutions that optimize decision-making and business performance. Whether I'm building machine learning models or architecting data infrastructures, my focus is always on creating systems that are not just functional—but transformative.
+
+Welcome to my world, where data meets design, and code becomes a catalyst for impact.</h3>
 </div>
 
 
